@@ -1,0 +1,13 @@
+# requirements.txt - pinned minimal compatible ranges (adjust CUDA/CPU build for torch as needed)
+
+numpy>=1.25,<1.27
+pandas>=2.1,<2.2
+scikit-learn>=1.3,<1.4
+joblib>=1.3,<1.4
+transformers>=4.34,<5.0
+
+# NOTE: For torch, prefer installing from the official PyTorch index matching your CUDA version.
+# Example CPU-only install:
+#   pip install "torch>=2.1,<3.0+cpu" --index-url https://download.pytorch.org/whl/cpu
+# Or standard pip spec (may pull CUDA wheels if available):
+torch>=2.1,<3.0
