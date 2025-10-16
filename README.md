@@ -13,7 +13,15 @@ O desafio consiste em:
 ## 📂 Estrutura do Repositório
 
 
-union-it-estagio-dados-ia/ ├── README.md ├── requirements.txt ├── respostas_etapas.md ├── leads.csv ├── analise_segmento.py └── etapa2_modelo/ ├── modelo_preditivo_prototipo.py └── gerador_emails_prototipo.py
+union-it-estagio-dados-ia
+ README.md 
+ requirements.txt 
+ respostas_etapas.md 
+ leads.csv 
+ analise_segmento.py 
+ etapa2_modelo/ 
+   modelo_preditivo_prototipo.py 
+   gerador_emails_prototipo.py
 
 ---
 
