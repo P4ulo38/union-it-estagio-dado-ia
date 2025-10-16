@@ -12,7 +12,6 @@ O desafio consiste em:
 
 ## 📂 Estrutura do Repositório
 
-
 union-it-estagio-dados-ia/ 
 ├── README.md 
 ├── requirements.txt 
