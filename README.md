@@ -119,6 +119,9 @@ seaborn==0.13.2
 transformers==4.44.2
 torch==2.2.2
 
+### Uso de IA no desenvolvimento
 
+Alguns trechos de código e ideias de prototipagem foram apoiados por ferramentas de IA generativa, sempre com revisão e adaptação manual.  
+O objetivo foi acelerar a prototipagem, mas todas as decisões de modelagem, métricas, features e arquitetura foram analisadas e validadas por mim.
 
 
